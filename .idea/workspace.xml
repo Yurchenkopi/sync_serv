@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3389dc1e-63bd-4014-8ad1-498fc5744c0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/java/ru/sync_serv/openfeign/FeignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/java/ru/sync_serv/openfeign/controller/TrackerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/java/ru/sync_serv/openfeign/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/java/ru/sync_serv/openfeign/service/TrackerProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/java/ru/sync_serv/openfeign/service/TrackerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/openfeign/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/java/ru/sync_serv/resttemplate/ResttemplateApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/java/ru/sync_serv/resttemplate/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/java/ru/sync_serv/resttemplate/controller/TrackerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/java/ru/sync_serv/resttemplate/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/java/ru/sync_serv/resttemplate/service/TrackerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/resttemplate/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/java/ru/sync_serv/source/SourceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/java/ru/sync_serv/source/controller/TrackerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/java/ru/sync_serv/source/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/java/ru/sync_serv/source/repository/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/java/ru/sync_serv/source/service/TrackerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/source/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/java/ru/sync_serv/webclient/WebclientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/java/ru/sync_serv/webclient/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/java/ru/sync_serv/webclient/controller/TrackerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/java/ru/sync_serv/webclient/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/java/ru/sync_serv/webclient/service/TrackerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/webclient/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2o5ExkTbuZo6qnkmCKJyTvgbA8n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/projects/sync_serv/services/openfeign/src/main/java/ru/sync_serv/openfeign",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\sync_serv\services\openfeign\src\main\java\ru\sync_serv\openfeign" />
+      <recent name="C:\projects\sync_serv\services\resttemplate\src\main\resources" />
+      <recent name="C:\projects\sync_serv\services\resttemplate\src\main\java\ru\sync_serv\resttemplate" />
+      <recent name="C:\projects\sync_serv\services\source\src\main\resources" />
+      <recent name="C:\projects\sync_serv\services\source\src\main\java\ru\sync_serv\source" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\webclients\services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebclientApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="sync_serv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="sync_serv" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="openfeign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.sync_serv.openfeign.FeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResttemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="resttemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.sync_serv.resttemplate.ResttemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="source" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.sync_serv.source.SourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="webclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.sync_serv.webclient.WebclientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3389dc1e-63bd-4014-8ad1-498fc5744c0a" name="Changes" comment="" />
+      <created>1730151288195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730151288195</updated>
+      <workItem from="1730151290110" duration="423000" />
+      <workItem from="1730151785598" duration="3933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
